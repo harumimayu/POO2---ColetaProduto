@@ -1,0 +1,14 @@
+C:\Users\Anna Miranda\Desktop\Final\ColetaApp\ColetaApp\bin\Debug\net6.0\ColetaApp.exe
+C:\Users\Anna Miranda\Desktop\Final\ColetaApp\ColetaApp\bin\Debug\net6.0\ColetaApp.deps.json
+C:\Users\Anna Miranda\Desktop\Final\ColetaApp\ColetaApp\bin\Debug\net6.0\ColetaApp.runtimeconfig.json
+C:\Users\Anna Miranda\Desktop\Final\ColetaApp\ColetaApp\bin\Debug\net6.0\ColetaApp.dll
+C:\Users\Anna Miranda\Desktop\Final\ColetaApp\ColetaApp\bin\Debug\net6.0\ColetaApp.pdb
+C:\Users\Anna Miranda\Desktop\Final\ColetaApp\ColetaApp\obj\Debug\net6.0\ColetaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna Miranda\Desktop\Final\ColetaApp\ColetaApp\obj\Debug\net6.0\ColetaApp.AssemblyInfoInputs.cache
+C:\Users\Anna Miranda\Desktop\Final\ColetaApp\ColetaApp\obj\Debug\net6.0\ColetaApp.AssemblyInfo.cs
+C:\Users\Anna Miranda\Desktop\Final\ColetaApp\ColetaApp\obj\Debug\net6.0\ColetaApp.csproj.CoreCompileInputs.cache
+C:\Users\Anna Miranda\Desktop\Final\ColetaApp\ColetaApp\obj\Debug\net6.0\ColetaApp.dll
+C:\Users\Anna Miranda\Desktop\Final\ColetaApp\ColetaApp\obj\Debug\net6.0\refint\ColetaApp.dll
+C:\Users\Anna Miranda\Desktop\Final\ColetaApp\ColetaApp\obj\Debug\net6.0\ColetaApp.pdb
+C:\Users\Anna Miranda\Desktop\Final\ColetaApp\ColetaApp\obj\Debug\net6.0\ColetaApp.genruntimeconfig.cache
+C:\Users\Anna Miranda\Desktop\Final\ColetaApp\ColetaApp\obj\Debug\net6.0\ref\ColetaApp.dll
